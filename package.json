@@ -1,0 +1,12 @@
+{
+  "name": "woditek-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing de tarjetas NFC para reseñas en Google — HTML + CSS + JS puro, sin dependencias.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}
